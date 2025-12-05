@@ -1,3 +1,4 @@
+#type:ignore
 nums = []
 with open("day1data.txt", "r") as f:
     lines = f.readlines()

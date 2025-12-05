@@ -1,3 +1,5 @@
+#type:ignore
+
 banks = []
 with open("day3data.txt", "r") as f:
     lines = f.readlines()
