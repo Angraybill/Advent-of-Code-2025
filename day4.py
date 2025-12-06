@@ -51,7 +51,6 @@ def part_two():
         for pair in changed:
             wall[pair[1]][pair[0]] = "x"
         changed = []
-            
     print(total)
 
 
