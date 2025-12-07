@@ -1,7 +1,7 @@
 #type:ignore
 ranges = []
 ids = []
-with open("day5data.txt", "r") as f:
+with open("day5dad.txt", "r") as f:
     lines = f.readlines()
     phase_one = True
     for line in lines:
